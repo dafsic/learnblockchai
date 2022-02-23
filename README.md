@@ -1,2 +1,6 @@
-# learnblockchai
+# learnblockchain
 集训作业
+
+每周一个目录，如w1代表第一周的作业，w1-1代表第一周第一次课的作业
+
+辛苦检查
